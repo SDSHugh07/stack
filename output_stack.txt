@@ -1,0 +1,12 @@
+C:\Users\aitchison\AppData\Local\Programs\Python\Python36\python.exe "C:/Users/aitchison/OneDrive/Projects/Development/stack/stack.py"
+stack empty
+1
+stack empty
+2
+1
+stack empty
+5
+4
+3
+2
+1
